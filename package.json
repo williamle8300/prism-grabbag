@@ -1,6 +1,6 @@
 {
   "name": "prism-utils",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "A grab bag of prism utilities",
   "main": "index.js",
   "scripts": {
