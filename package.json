@@ -1,0 +1,25 @@
+{
+  "name": "prism-grab-bag",
+  "version": "0.1.0",
+  "description": "A grab bag of prism utilities",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/williamle8300/prism-grab-bag.git"
+  },
+  "keywords": [
+    "prism",
+    "utilities",
+    "utils",
+    "prism-utilities"
+  ],
+  "author": "William Le <williamle8300@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/williamle8300/prism-grab-bag/issues"
+  },
+  "homepage": "https://github.com/williamle8300/prism-grab-bag#readme"
+}
